@@ -65,7 +65,7 @@ Try going to a different host with nothing installed and run:
 Pull the container from DockerHub.
 
 ```
-docker pull tayglobal/espa-import:latest
+docker pull tayglobal/espa-import
 ```
 
 Find the image id:
