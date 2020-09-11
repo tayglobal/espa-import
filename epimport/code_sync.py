@@ -108,6 +108,7 @@ def run(srcdb: str, localpath: str, recursive: bool, verbose: bool):
 
     Example:
 
+    python -m epimport.code_sync --recursive --verbose .
 
     """
     logging.basicConfig(level=logging.INFO,
